@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on well anything involving coding or specifically machine learning
 - 📫 How to reach me ....
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:Im a quick learner and a anime nerd
+- ⚡ Fun fact:Im a quick learner and an anime nerd
 
 <!---
 netspaceboy577/netspaceboy577 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
